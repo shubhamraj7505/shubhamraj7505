@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-Hey <img src="svg/Hi.gif" width="29px">, I'm Piyush
+Hey <img src="https://github.com/piyush168713/piyush168713/blob/main/svg/Hi.gif" width="29px">, I'm Shubham
 </h1>
 
 
