@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 </h1>
 
 
+<!--### Check Out the Languages and tech I know:-->
+
+  ## Languages <a target="_blank"><img src="svg/dev/languages/lang.jpg" height="25px" style="max-width:100%;">
+
+  <img src="svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top margin:0.0000000000000001px 0.0000000000000001px">  
+  <img src="svg/dev/languages/csharp.svg" alt="C" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;  <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">&nbsp; &nbsp;   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp; 
+  <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;  <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="vertical-align:top; margin:6px 4px" height="35"> 
+
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamraj7505&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamraj7505&layout=compact&theme=highcontrast&hide_border=true)
